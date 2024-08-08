@@ -1,7 +1,7 @@
 # neural-network-from-scratch
 ![Neural Network](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N8UXaiUKWurFLdmEhEHiWg.jpeg)
 
->"_God Bias:When an algorithm or neural network inherits flaws of it's human creator.― Clyde DeSouza, Maya_"
+>_God Bias:When an algorithm or neural network inherits flaws of it's human creator.― Clyde DeSouza, Maya_
 ## Define the Neural Network Class:
 
 Create a class **NeuralNetwork** in network.py.<br />
