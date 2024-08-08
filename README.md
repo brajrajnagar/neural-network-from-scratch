@@ -1,16 +1,16 @@
 # neural-network-from-scratch
-##Define the Neural Network Class:
+## Define the Neural Network Class:
 
 Create a class NeuralNetwork in network.py.
 Define methods for initialization, forward pass, and backward pass.
 
-##Implement Activation Functions in utils.py:
+## Implement Activation Functions in utils.py:
 Sigmoid
 ReLU
 Tanh
 Softmax
 
-##Implement Loss Functions in utils.py:
+## Implement Loss Functions in utils.py:
 Mean Squared Error (MSE)
 Cross-Entropy Loss
 Implement the Forward Pass:
@@ -20,7 +20,7 @@ Implement the Backward Pass (Backpropagation):
 
 Define the backward pass method in your NeuralNetwork class.
 
-##Training the Neural Network
+## Training the Neural Network
 Create a Training Loop in main.py:
 
 Load and preprocess your dataset.
