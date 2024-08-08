@@ -8,14 +8,18 @@ Create a class **NeuralNetwork** in network.py.<br />
 Define methods for initialization, forward pass, and backward pass.<br />
 
 ## Implement Activation Functions in utils.py:
-[_Sigmoid_](https://pytorch.org/docs/stable/generated/torch.nn.Sigmoid.html#torch.nn.Sigmoid) <br />
-[_ReLU_](https://pytorch.org/docs/stable/generated/torch.nn.ReLU.html#relu) <br />
-[_Tanh_][link 1] <br />
-[_Softmax_][link 2] <br />
+* [_Sigmoid_](https://pytorch.org/docs/stable/generated/torch.nn.Sigmoid.html#torch.nn.Sigmoid) <br />
+    * nn.Sigmoid()
+* [_ReLU_](https://pytorch.org/docs/stable/generated/torch.nn.ReLU.html#relu) <br />
+    * nn.ReLU()
+* [_Tanh_][link 1] <br />
+    * nn.Tanh()
+* [_Softmax_][link 2] <br />
+    * nn.Softmax(dim=1)
 
 ## Implement Loss Functions in utils.py:
-Mean Squared Error (MSE) <br />
-Cross-Entropy Loss <br />
+1. Mean Squared Error (MSE) <br />
+2. Cross-Entropy Loss <br />
 
 ## Implement the Forward Pass:
 
