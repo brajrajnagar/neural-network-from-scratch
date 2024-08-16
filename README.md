@@ -32,10 +32,10 @@ Define the backward pass method in your NeuralNetwork class. <br />
 ## Training the Neural Network
 Create a Training Loop in main.py: <br />
 
-Load and preprocess your dataset. <br />
-Initialize the neural network. <br />
-Implement the training loop. <br />
-Print training progress. <br />
+Load and preprocess your dataset.  
+Initialize the neural network.  
+Implement the training loop.  
+Print training progress.
 
 ## Evaluate the Neural Network: 
 
