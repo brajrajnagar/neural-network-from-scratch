@@ -2,6 +2,29 @@
 ![Neural Network](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N8UXaiUKWurFLdmEhEHiWg.jpeg)
 
 >_God Bias:When an algorithm or neural network inherits flaws of it's human creator.― Clyde DeSouza, Maya_
+
+# Files structure:
+>neural-network-from-scratch/
+├── README.md
+├── requirements.txt
+├── neural_network/
+│   ├── __init__.py
+│   ├── layers.py
+│   ├── activations.py
+│   ├── losses.py
+│   ├── optimizers.py
+│   ├── model.py
+│   └── utils.py
+├── examples/
+│   └── train_simple_nn.py
+└── tests/
+    ├── test_layers.py
+    ├── test_activations.py
+    ├── test_losses.py
+    ├── test_optimizers.py
+    └── test_model.py
+
+
 ## Define the Neural Network Class:
 
 Create a class **NeuralNetwork** in network.py.<br />
