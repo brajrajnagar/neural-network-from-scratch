@@ -4,7 +4,8 @@
 >_God Bias:When an algorithm or neural network inherits flaws of it's human creator.― Clyde DeSouza, Maya_
 
 # Files structure:
->neural-network-from-scratch/
+```plaintext
+neural-network-from-scratch/
 ├── README.md
 ├── requirements.txt
 ├── neural_network/
