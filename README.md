@@ -4,6 +4,7 @@
 >_God Bias:When an algorithm or neural network inherits flaws of it's human creator.― Clyde DeSouza, Maya_
 
 ## Files structure:
+```plaintext
 neural-network-from-scratch/
 ├── README.md
 ├── requirements.txt
@@ -23,7 +24,7 @@ neural-network-from-scratch/
     ├── test_losses.py
     ├── test_optimizers.py
     └── test_model.py
-
+```
 
 ## Define the Neural Network Class:
 
