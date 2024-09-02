@@ -45,3 +45,4 @@ class DenseLayer:
         # Update weights and biases
         self.weights -= learning_rate * self.dweights
         self.biases -= learning_rate * self.dbiases
+
