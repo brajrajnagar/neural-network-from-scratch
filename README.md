@@ -25,7 +25,6 @@ neural-network-from-scratch/
     ├── test_optimizers.py
     └── test_model.py
 ```
-
 ## Define the Neural Network Class:
 
 Create a class **NeuralNetwork** in network.py.<br />
